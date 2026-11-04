@@ -1,0 +1,97 @@
+# Uma por linha. Sem acento (o filtro tira os acentos do texto antes de comparar).
+#   palavra  -> a palavra inteira e o plural
+#   ~verbo   -> todas as conjugações do verbo (~transar pega transamos, transei...)
+#   *trecho  -> qualquer palavra que contenha o trecho
+#   emoji    -> em qualquer lugar
+# Ficaram de fora palavras que dão falso positivo em frases normais
+# (ex.: "rola" de rolar, "pelada" de futebol, "comer", "chupar", "meter").
+
+# verbos (todas as conjugações)
+~transar
+~trepar
+~gozar
+~foder
+*foda
+~fuder
+~masturbar
+~estuprar
+~sarrar
+~bolinar
+
+# sexo e nudez
+sexo
+sexual
+sexy
+orgasmo
+orgia
+*porn
+nude
+nudes
+nua
+*boquete
+*punheta
+*siririca
+*masturb
+anal
+tesao
+tesuda
+tesudo
+safadeza
+putaria
+prostituta
+*prostitui
+cafetao
+*fetiche
+motel
+onlyfans
+xxx
+nsfw
+
+# partes do corpo (gíria)
+cu
+cus
+pau
+piroca
+*buceta
+*boceta
+*xoxota
+xota
+xereca
+ppk
+peitinho
+bunduda
+
+# violência sexual e crimes contra criança
+*estupr
+*pedofil
+
+# palavrões
+caralho
+porra
+puta
+puto
+vadia
+arrombado
+arrombada
+viado
+desgracado
+
+# inglês
+sex
+fuck
+fucking
+dick
+cock
+pussy
+boobs
+tits
+horny
+nsfw
+porno
+
+# emojis
+🍆
+🍑
+💦
+🔞
+👅
